@@ -1,0 +1,14 @@
+.DS_Store
+/.build
+/Packages
+xcuserdata/
+DerivedData/
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
+FastagSdkIos/App.xcframework/
+FastagSdkIos/App.xcframework
+FastagSdkIos/fastagwrapperios.xcframework/
+FastagSdkIos/fastagwrapperios.xcframework
+FastagSdkIos/Flutter.xcframework/
+FastagSdkIos/Flutter.xcframework
