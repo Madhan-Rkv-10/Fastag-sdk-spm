@@ -35,7 +35,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "Flutter",
-            path: "./Flutter.xcframework"
+            url:"https://madhanrkvaws.s3.eu-north-1.amazonaws.com/Flutters.xcframework.zip",
+            checksum: "aca22009f71123f736c3bfc0dda084d0077b899ebac0e9610de95e3b3f45cb50"
         )
         
     ]
