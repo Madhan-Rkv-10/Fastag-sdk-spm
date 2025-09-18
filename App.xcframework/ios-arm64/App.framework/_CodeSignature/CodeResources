@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		Jo9V/vTY9XQ9FzLOrPxIE6iRDEA=
+		1gLPQyFWA9MMH9SE2psKGrAImxg=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		KPaYqdqeagyBq02tPxvfTiQbjdo=
+		T+Zt8vJCH1X/sXabiAZ6+5lTEFs=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -59,10 +59,6 @@
 		<key>flutter_assets/assets/icon_back.svg</key>
 		<data>
 		QqMe1UFQoZKx6P9rBjxRVgve9cU=
-		</data>
-		<key>flutter_assets/assets/json/location.json</key>
-		<data>
-		6SsyPY2yrgGZDUb4kuvzlSDyJcA=
 		</data>
 		<key>flutter_assets/assets/payments/.DS_Store</key>
 		<data>
@@ -231,14 +227,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vu5BcOqWSCfIaKgNYWgPndfu4jWNn1Yfv98NUGRSEQE=
+			boGaZf89bfGo3oFL10TW4+azpIUnfnrBVuvdZvQTevs=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IiR6y/+7s+klfZcCB9FmldFc9Z+9ye+5J1khpXHWGug=
+			DsogDt45jlycHHJAmdwhSrEVMjzSmCnkoEJMkUzJZ80=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -309,13 +305,6 @@
 			<key>hash2</key>
 			<data>
 			D09H60lbn73YBdXXe1pSMf8Svjv7l7KppJth/pOk+so=
-			</data>
-		</dict>
-		<key>flutter_assets/assets/json/location.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			wVEStYi8Hn9tPyFGACdSMxO4bhFcT1OWMKhyATI26FI=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/payments/airtel.svg</key>
